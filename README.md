@@ -1,5 +1,7 @@
-# Diploma
+### ARIMA + NN / VAR + NN for macroeconomic forecasting 
 
-Files related to Bacheor Thesis work "FORECASTING PERFORMANCE OF HYBRID ARIMA-ANN AND VAR-ANN MODELS ON MACROECONOMIC DATA"
+(2017)
 
-This files are drafts and also uploaded with inaropriate directory structure.
+Bacheor project "FORECASTING PERFORMANCE OF HYBRID ARIMA-ANN AND VAR-ANN MODELS ON MACROECONOMIC DATA"
+
+> This files are drafts and also uploaded with inaropriate directory structure.
